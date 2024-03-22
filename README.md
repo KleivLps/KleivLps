@@ -6,7 +6,18 @@ I'm an urban architect, I use 2D editing programs such as Autocad and 3D program
 ## Contact me
 You can contact me from my social networks
 
+
+## Skills
+- Autocad
+- Sketchup
+- Revit
+- V-ray
+- Enscape
+- D5 Render
+- Lumion
+
 ## Technologies
 - HTML
 - CSS
 - JS
+
