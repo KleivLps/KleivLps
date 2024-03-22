@@ -5,3 +5,8 @@ I'm an urban architect, I use 2D editing programs such as Autocad and 3D program
 
 ## Contact me
 You can contact me from my social networks
+
+## Hobbies
+- Running
+- Desing
+- Drawing
