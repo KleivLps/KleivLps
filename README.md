@@ -10,3 +10,18 @@ You can contact me from my social networks
 - Running
 - Desing
 - Drawing
+
+## Skills
+- Autocad
+- Sketchup
+- Revit
+- V-ray
+- Enscape
+- D5 Render
+- Lumion
+
+## Technologies
+- HTML
+- CSS
+- JS
+
