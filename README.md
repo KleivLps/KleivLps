@@ -5,3 +5,28 @@ I'm an urban architect, I use 2D editing programs such as Autocad and 3D program
 
 ## Contact me
 You can contact me from my social networks
+
+## Languages
+- English
+- Spanish
+- Portuguese
+
+## Hobbies
+- Running
+- Desing
+- Drawing
+
+## Skills
+- Autocad
+- Sketchup
+- Revit
+- V-ray
+- Enscape
+- D5 Render
+- Lumion
+
+## Technologies
+- HTML
+- CSS
+- JS
+
