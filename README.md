@@ -6,6 +6,12 @@ I'm an urban architect, I use 2D editing programs such as Autocad and 3D program
 ## Contact me
 You can contact me from my social networks
 
+<<<<<<< HEAD
+## Languages
+- English
+- Spanish
+- Portuguese
+=======
 ## Hobbies
 - Running
 - Desing
@@ -25,3 +31,4 @@ You can contact me from my social networks
 - CSS
 - JS
 
+>>>>>>> 36d6d54930c57f785f2c49973be66c27b44f4a2b
